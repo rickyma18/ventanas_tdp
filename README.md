@@ -11,7 +11,6 @@
 - **Validación de categorías**: garantiza que en los 11 titulares haya siempre 1 jugador menor y 2 medianos.  
 - **Carga local**: almacena dorsal y categoría de cada jugador por equipo en memoria local para acceso instantáneo.  
 - **UI responsiva para smartwatch**: layouts adaptados a circular y rectangular, botones grandes y navegación por gestos.  
-- **Sincronización opcional**: exporta el registro de cambios a tu app móvil o servidor cuando te reconectas (opcional).
 
 ---
 
