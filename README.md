@@ -89,6 +89,21 @@ lib/
 │   └── substitution_vm.dart
 ├── main.dart               # Punto de entrada Wear OS
 └── theme.dart              # Temas y estilos responsivos
+
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
+  <img src="https://github.com/user-attachments/assets/82fcdcbe-4d4e-46f8-85a7-4cb3384b0f87" alt="Pantalla 1" width="200" />
+  <img src="https://github.com/user-attachments/assets/d01f11af-8a1d-4ae0-aee4-084d1e9e0681" alt="Pantalla 2" width="200" />
+  <img src="https://github.com/user-attachments/assets/854db213-ce18-468b-a5b7-d41ac98f6f3b" alt="Pantalla 3" width="200" />
+  <img src="https://github.com/user-attachments/assets/cca31669-ed82-4d2b-8305-11637e1ed626" alt="Pantalla 4" width="200" />
+  <img src="https://github.com/user-attachments/assets/f5a2f02d-fccb-4c0b-8dc6-6fc825b78ea7" alt="Pantalla 5" width="200" />
+  <img src="https://github.com/user-attachments/assets/093ecf18-6497-4692-a905-1fd0557cc4c9" alt="Pantalla 6" width="200" />
+  <img src="https://github.com/user-attachments/assets/af929108-988a-4940-96ce-e180324e8b4d" alt="Pantalla 7" width="200" />
+  <img src="https://github.com/user-attachments/assets/bd7b1c5d-940c-4175-9c0a-541ba1aee76a" alt="Pantalla 8" width="200" />
+  <img src="https://github.com/user-attachments/assets/e224bd2c-b652-4150-85a9-8551b1dcced1" alt="Pantalla 9" width="200" />
+  <img src="https://github.com/user-attachments/assets/1c83f7f7-9737-4e87-840c-078cc40d41c8" alt="Pantalla 10" width="200" />
+  <img src="https://github.com/user-attachments/assets/1c41ceb2-7745-4b7f-84c3-04c699c5e192" alt="Pantalla 11" width="200" />
+</div>
+
 🤝 Contribuciones
 ¡Contribuciones bienvenidas! Para aportar:
 
