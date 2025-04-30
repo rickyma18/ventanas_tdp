@@ -30,11 +30,11 @@
    git clone https://github.com/rickyma18/VentanasTDP.git
    cd VentanasTDP
 Instala dependencias
-
-
-
+```bash
 
 flutter pub get
+```
+
 Conecta tu reloj
 
 Habilita modo desarrollador y ADB via Bluetooth.
@@ -42,17 +42,15 @@ Habilita modo desarrollador y ADB via Bluetooth.
 Empareja tu Wear OS con el PC.
 
 Verifica con:
-
-
-
-
+```bash
 adb devices
+```
 Ejecuta en Wear OS
 
-
-
-
+```bash
 flutter run -d <wear-device-id>
+```
+
 ▶️ Uso
 En la pantalla de Equipos, selecciona tu equipo local o visitante.
 
@@ -69,9 +67,7 @@ Confirma el cambio y repite hasta 5 cambios totales. La interfaz muestra cambios
 Al finalizar, pulsa Exportar para enviar el registro a tu dispositivo móvil o servidor.
 
 🗂️ Estructura de carpetas
-text
-
-
+  ```sql
 lib/
 ├── model/
 │   ├── player.dart         # Entidad jugador (dorsal, categoría)
@@ -88,7 +84,7 @@ lib/
 │   └── substitution_vm.dart
 ├── main.dart               # Punto de entrada Wear OS
 └── theme.dart              # Temas y estilos responsivos
-
+```
 <div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
   <img src="https://github.com/user-attachments/assets/82fcdcbe-4d4e-46f8-85a7-4cb3384b0f87" alt="Pantalla 1" width="200" />
   <img src="https://github.com/user-attachments/assets/d01f11af-8a1d-4ae0-aee4-084d1e9e0681" alt="Pantalla 2" width="200" />
